@@ -1,0 +1,32 @@
+.rubik-wet-paint-regular {
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+.anton-sc-regular {
+    font-family: "Anton SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.vertical-spacing {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: solid 2px black;
+}
+
+main {
+    text-align: center;
+}
+
+p {
+    text-indent: 2em;
+}
